@@ -7,7 +7,7 @@ about:
   head: faed829
   archived: false
   latestVersion: 2.0.0
-  collectedAt: 2026-09-04T19:29:37Z
+  collectedAt: 2026-09-04T21:01:10Z
 timeline:
   created: 2021-07-15
   lastCommit: 2026-03-07
@@ -82,5 +82,68 @@ total:
   openIssue: 15
   commit: 498
 ---
+path: /home/runner/.x-repo/github.com/0cyn/ktool
+collectedAt: 2026-09-04T21:01:12Z
+loc:
+  Python:
+    code: 10476
+    comments: 767
+    blanks: 2650
+    files: 33
+  ReStructuredText:
+    code: 1072
+    comments: 0
+    blanks: 619
+    files: 4
+  ObjectiveC:
+    code: 37
+    comments: 5
+    blanks: 20
+    files: 2
+  Toml:
+    code: 28
+    comments: 0
+    blanks: 5
+    files: 1
+  Batch:
+    code: 26
+    comments: 1
+    blanks: 8
+    files: 1
+  Xml:
+    code: 14
+    comments: 0
+    blanks: 0
+    files: 1
+  Css:
+    code: 12
+    comments: 0
+    blanks: 0
+    files: 1
+  Makefile:
+    code: 9
+    comments: 7
+    blanks: 4
+    files: 1
+  Sh:
+    code: 4
+    comments: 0
+    blanks: 0
+    files: 2
+  Markdown:
+    code: 0
+    comments: 92
+    blanks: 40
+    files: 3
+  Text:
+    code: 0
+    comments: 4
+    blanks: 0
+    files: 1
+total:
+  code: 11680
+  comments: 878
+  blanks: 3347
+  files: 50
 ---
 
