@@ -4,7 +4,7 @@
 
 pip install k2l | Mach-O + Obj-C analysis TUI / CLI kit and library. Zero compiled deps, runs anywhere with a python interpreter.
 
-![ktool](https://repo.x-cmd.io/ktool.svg)
+![ktool](https://repo.x-cmd.io/ktool.svg?lang=zh)
 
 ## 安装
 
@@ -21,7 +21,6 @@ x install ktool
 
 - **最新版本**: `2.0.0` (2024-01-10)
 - **最近提交**: 2026-03-07
-- **发布时间**: 2024-01-10T23:29:17Z
 
 ## 流行度
 
@@ -60,4 +59,4 @@ ktool 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:07:02Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:36:19Z._
