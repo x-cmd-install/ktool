@@ -4,7 +4,7 @@
 
 pip install k2l | Mach-O + Obj-C analysis TUI / CLI kit and library. Zero compiled deps, runs anywhere with a python interpreter.
 
-![ktool](https://repo.x-cmd.io/ktool.svg)
+[![x-cmd/install — ktool Code Quality Monitoring Repo Card](https://repo.x-cmd.io/ktool.svg)](https://x-cmd.com/install/ktool)
 
 ## Install
 
@@ -36,22 +36,22 @@ Total: **11,678** lines of code across **41** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 526 · **Forks**: 25 · **Open issues**: 53 · **Contributors**: 4
+- **Stars**: 526 · **Forks**: 25 · **Open issues**: 54 · **Contributors**: 4
 
 ## Totals (cumulative)
 
-- **Releases**: 36 · **Merged PRs**: 11 · **Open PRs**: 1 · **Closed issues**: 38 · **Open issues**: 15 · **Commits**: 498
+- **Releases**: 36 · **Merged PRs**: 11 · **Open PRs**: 1 · **Closed issues**: 39 · **Open issues**: 15 · **Commits**: 498
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-20 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-20 | 0 | 0 | 0 | 0 | 1 | 0 |
-| last180d | 2026-03-22 | 0 | 0 | 0 | 0 | 2 | 0 |
-| 360d | 2025-09-23 | 0 | 0 | 0 | 0 | 3 | 2 |
-| last720d | 2024-09-28 | 0 | 0 | 1 | 1 | 5 | 3 |
+| 30d | 2026-08-21 | 0 | 0 | 0 | 1 | 0 | 0 |
+| last60d | 2026-07-22 | 0 | 0 | 0 | 1 | 0 | 0 |
+| 90d | 2026-06-22 | 0 | 0 | 0 | 1 | 1 | 0 |
+| last180d | 2026-03-24 | 0 | 0 | 0 | 1 | 2 | 0 |
+| 360d | 2025-09-25 | 0 | 0 | 0 | 1 | 3 | 2 |
+| last720d | 2024-09-30 | 0 | 0 | 1 | 2 | 5 | 3 |
 
 ## Improve this data
 
@@ -62,4 +62,4 @@ Install metadata for ktool lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:04:36Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:15:44Z._
